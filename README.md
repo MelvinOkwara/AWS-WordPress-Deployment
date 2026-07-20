@@ -1,6 +1,4 @@
 # WordPress Deployment on Ubuntu 24.04 LTS
-**Assignment Report**  
-**Student Name:** Melvin Okwara
 
 ---
 
